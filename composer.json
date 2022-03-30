@@ -8,15 +8,7 @@
         "inertia",
         "tailwind"
     ],
-    "license": "proprietary",
-    "authors": [
-        {
-            "name": "Victor Nwanguma",
-            "email": "nwangumav@gmail.com",
-            "homepage": "https://victor-x.web.app",
-            "role": "Student"
-        }
-    ],
+    "license": "proprietary"
     "require": {
         "php": "^7.3|^8.0.10",
         "fideloper/proxy": "^4.4",
